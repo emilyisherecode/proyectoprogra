@@ -1,0 +1,46 @@
+Capítulo 1: Hardware & Peripherals (vocabulario, opción múltiple)
+# Líneas I: páginas de contenido (una por párrafo). T: términos del glosario (T|inglés|español).
+# P: preguntas (P|enunciado|respuesta|opciones separadas por ;|explicación). No usar el carácter | dentro de los textos.
+TIPO=VOCABULARIO
+CAPITULO=1
+TITULO=Hardware & Peripherals
+DESCRIPCION=Aprenda los nombres en inglés de los componentes del computador.
+OBJETIVO=Reconocer y usar en inglés el vocabulario básico de los dispositivos de entrada, salida y almacenamiento del computador.
+EXPLICACION=El hardware es la parte física del computador. En este capítulo conocerá los nombres en inglés de los dispositivos que usamos para dar órdenes, ver resultados y guardar información.
+TEMA=Hardware
+I|¿Qué es el hardware? Hardware es la parte física del computador: todo lo que se puede tocar, como el teclado, la pantalla o el disco duro. Lo contrario es el software, que son los programas. Un computador necesita ambos para funcionar.
+I|Dispositivos de entrada (input devices). Sirven para enviar información al computador. El keyboard (teclado) permite escribir, el mouse (ratón) mueve el puntero y la drawing tablet (tableta de dibujo) permite dibujar a mano. También son de entrada el microphone (micrófono), la webcam (cámara web) y el scanner (escáner), que convierte papel en imágenes digitales.
+I|Dispositivos de salida (output devices). Sirven para recibir los resultados del computador. La screen (pantalla) muestra imágenes y texto, el printer (impresora) pasa los documentos a papel, y el speaker (altavoz) y los headphones (audífonos) reproducen sonido.
+I|Componentes internos. El processor (procesador) ejecuta las instrucciones y se suele llamar el cerebro del computador. La memory (memoria) guarda de forma temporal los datos de los programas que están abiertos. El hard drive (disco duro) guarda los archivos de forma permanente. La motherboard (tarjeta madre) es la placa donde se conectan todos los componentes.
+I|Conexiones. Muchos dispositivos se conectan al computador por un USB port (puerto USB). Por ejemplo, una memoria flash, un ratón o una webcam. Saber el nombre en inglés de cada pieza le ayuda a leer manuales, comprar equipo y pedir soporte técnico.
+I|Consejo de estudio. Intente asociar cada palabra en inglés con el objeto real que tiene a la mano: señale su keyboard y diga "keyboard", mire su screen y diga "screen". Repasar con objetos reales ayuda a recordar el vocabulario.
+T|Keyboard|Teclado
+T|Screen|Pantalla
+T|Drawing tablet|Tableta de dibujo
+T|Mouse|Ratón
+T|Printer|Impresora
+T|Speaker|Altavoz
+T|Microphone|Micrófono
+T|Webcam|Cámara web
+T|Headphones|Audífonos
+T|Scanner|Escáner
+T|Hard drive|Disco duro
+T|Processor|Procesador
+T|Memory|Memoria
+T|Motherboard|Tarjeta madre
+T|USB port|Puerto USB
+P|What does 'keyboard' mean?|Teclado|Teclado;Pantalla;Ratón;Impresora;|Keyboard es el dispositivo de entrada con teclas que se usa para escribir.
+P|What does 'screen' mean?|Pantalla|Impresora;Pantalla;Teclado;Altavoz;|Screen es el dispositivo de salida donde se muestra la imagen.
+P|What does 'drawing tablet' mean?|Tableta de dibujo|Ratón;Teclado;Tableta de dibujo;Escáner;|Drawing tablet es una superficie con lápiz que usan diseñadores e ilustradores para dibujar de forma digital.
+P|What does 'mouse' mean?|Ratón|Ratón;Impresora;Pantalla;Tableta de dibujo;|Mouse es el dispositivo que mueve el puntero en la pantalla. En computación se traduce como ratón.
+P|What does 'printer' mean?|Impresora|Teclado;Ratón;Pantalla;Impresora;|Printer es el dispositivo de salida que pasa los documentos digitales a papel.
+P|What does 'speaker' mean?|Altavoz|Micrófono;Altavoz;Audífonos;Cámara web;|Speaker es el dispositivo de salida que reproduce el sonido hacia el ambiente.
+P|What does 'microphone' mean?|Micrófono|Altavoz;Audífonos;Micrófono;Cámara web;|Microphone es el dispositivo de entrada que capta la voz y otros sonidos.
+P|What does 'webcam' mean?|Cámara web|Cámara web;Micrófono;Escáner;Pantalla;|Webcam es la cámara que se conecta al computador para videollamadas y grabaciones.
+P|What does 'headphones' mean?|Audífonos|Altavoz;Audífonos;Teclado;Impresora;|Headphones son los audífonos: reproducen el sonido solo para quien los usa.
+P|What does 'scanner' mean?|Escáner|Impresora;Pantalla;Escáner;Ratón;|Scanner es el dispositivo que convierte documentos de papel en imágenes digitales.
+P|How do you say 'disco duro' in English?|Hard drive|Hard drive;Memory;Processor;Motherboard;|Hard drive es donde se guardan los archivos de forma permanente.
+P|Complete: The ___ is the brain of the computer.|Processor|Memory;Processor;Webcam;Hard drive;|El processor ejecuta las instrucciones de los programas, por eso se le llama el cerebro del computador.
+P|How do you say 'memoria' in English?|Memory|Processor;Motherboard;Memory;Hard drive;|Memory guarda temporalmente los datos de los programas que están abiertos.
+P|How do you say 'tarjeta madre' in English?|Motherboard|Motherboard;Memory;Processor;USB port;|Motherboard es la placa principal donde se conectan todos los componentes.
+P|Complete: You connect a flash drive to the ___.|USB port|Scanner;USB port;Speaker;Microphone;|Los dispositivos como una memoria flash se conectan por el USB port.

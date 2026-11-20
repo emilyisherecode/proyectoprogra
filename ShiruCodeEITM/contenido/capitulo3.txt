@@ -1,0 +1,45 @@
+# Capítulo 3: Multimedia & Digital Design (vocabulario, opción múltiple)
+# Líneas I: páginas de contenido. T: glosario. P: preguntas. No usar el carácter | dentro de los textos.
+TIPO=VOCABULARIO
+CAPITULO=3
+TITULO=Multimedia & Digital Design
+DESCRIPCION=Conozca los términos básicos del diseño digital y la multimedia.
+OBJETIVO=Identificar en inglés los términos básicos de imagen, diseño, sonido y animación digital.
+EXPLICACION=La multimedia combina imágenes, texto, sonido y animación. En este capítulo aprenderá el vocabulario en inglés que aparece en los programas de diseño y edición.
+TEMA=Multimedia
+I|¿Qué es la multimedia? Multimedia es la combinación de varios tipos de contenido en un mismo producto: imágenes, texto, audio, video y animación. Un videojuego, una página web o un libro interactivo como este son ejemplos de multimedia.
+I|La imagen digital. Una imagen digital está formada por pixels (píxeles), los puntos de color más pequeños. La resolution (resolución) indica cuántos píxeles tiene una imagen: a mayor resolución, mayor detalle. Al diseñar, el background (fondo) es lo que queda detrás de los demás elementos.
+I|Herramientas de diseño. En un programa de diseño se trabaja sobre un canvas (lienzo), el área donde se dibuja. Se usa un brush (pincel) para pintar y una color palette (paleta de colores) para elegir los colores. Los layers (capas) son hojas transparentes superpuestas: permiten editar cada elemento sin dañar los demás. Un filter (filtro) aplica un efecto a toda la imagen, como blanco y negro o desenfoque.
+I|Texto y símbolos. La font (tipografía) es el estilo de las letras. Elegir una tipografía legible es clave para que el mensaje se entienda. Un icon (ícono) es un dibujo pequeño y simple que representa una acción o un objeto, como una lupa o una casa.
+I|Animación y sonido. Una animation (animación) es una secuencia de imágenes que se muestran rápido para crear sensación de movimiento. Cada imagen de la secuencia se llama frame (fotograma). La timeline (línea de tiempo) organiza en qué momento aparece cada fotograma o sonido. Un sound effect (efecto de sonido) es un audio corto, como un clic o una campana.
+I|Guardar el trabajo. Cuando el diseño está terminado, se hace un export (exportar): se guarda el trabajo en un formato que otros programas pueden abrir, como una imagen o un video. Conocer estos términos en inglés le permitirá seguir tutoriales y usar programas de diseño en su idioma original.
+T|Layers|Capas
+T|Resolution|Resolución
+T|Animation|Animación
+T|Pixel|Píxel
+T|Font|Tipografía
+T|Color palette|Paleta de colores
+T|Brush|Pincel
+T|Canvas|Lienzo
+T|Frame|Fotograma
+T|Timeline|Línea de tiempo
+T|Icon|Ícono
+T|Background|Fondo
+T|Sound effect|Efecto de sonido
+T|Export|Exportar
+T|Filter|Filtro
+P|What does 'layers' mean?|Capas|Capas;Resolución;Animación;Píxel|Layers son capas transparentes superpuestas que permiten editar cada elemento de un diseño por separado.
+P|What does 'resolution' mean?|Resolución|Animación;Resolución;Capas;Píxel|Resolution es la cantidad de píxeles de una imagen. A mayor resolución, mayor detalle.
+P|What does 'animation' mean?|Animación|Píxel;Capas;Resolución;Animación|Animation es una secuencia de imágenes que, al mostrarse rápido, da sensación de movimiento.
+P|What does 'pixel' mean?|Píxel|Tipografía;Píxel;Capas;Animación|Pixel es el punto más pequeño de color que forma una imagen digital.
+P|What does 'font' mean?|Tipografía|Tipografía;Capas;Píxel;Animación|Font es el estilo o diseño de las letras de un texto.
+P|What does 'color palette' mean?|Paleta de colores|Pincel;Lienzo;Paleta de colores;Fotograma|Color palette es el conjunto de colores que se eligen para un diseño.
+P|What does 'brush' mean?|Pincel|Pincel;Lienzo;Fotograma;Filtro|Brush es la herramienta que se usa para pintar en un programa de diseño.
+P|What does 'canvas' mean?|Lienzo|Pincel;Fondo;Lienzo;Filtro|Canvas es el área de trabajo donde se dibuja o se compone el diseño.
+P|What does 'frame' mean?|Fotograma|Capas;Fotograma;Píxel;Lienzo|Frame es cada una de las imágenes que forman una animación o un video.
+P|What does 'timeline' mean?|Línea de tiempo|Paleta de colores;Filtro;Línea de tiempo;Tipografía|Timeline organiza en qué momento aparece cada fotograma o sonido.
+P|How do you say 'ícono' in English?|Icon|Icon;Frame;Canvas;Brush|Icon es un dibujo pequeño y simple que representa una acción o un objeto.
+P|How do you say 'fondo' in English?|Background|Layers;Background;Filter;Timeline|Background es lo que queda detrás de los demás elementos del diseño.
+P|How do you say 'filtro' in English?|Filter|Font;Pixel;Frame;Filter|Filter aplica un efecto a la imagen, como blanco y negro o desenfoque.
+P|A short audio like a click or a bell is a ___.|Sound effect|Sound effect;Font;Pixel;Canvas|Sound effect es un audio corto que se agrega para acompañar una acción o una escena.
+P|What does 'export' mean?|Exportar|Exportar;Pincel;Lienzo;Fotograma|Export significa guardar el trabajo terminado en un formato que otros programas pueden abrir.

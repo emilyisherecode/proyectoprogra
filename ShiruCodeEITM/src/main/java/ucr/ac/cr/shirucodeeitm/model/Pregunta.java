@@ -11,16 +11,17 @@ import java.util.ArrayList;
  * @author LENOVO
  */
 public class Pregunta {
-    private String enunciado, respuesta;
+    private String enunciado, respuesta, explicacion;
     private ArrayList<String> opciones;
 
     public Pregunta() {
         this.opciones = new ArrayList<>();
     }
 
-    public Pregunta(String enunciado, String respuesta) {
+    public Pregunta(String enunciado, String respuesta, String explicacion) {
         this.enunciado = enunciado;
         this.respuesta = respuesta;
+        this.explicacion = explicacion;
         this.opciones = new ArrayList<>();
     }
 
@@ -40,16 +41,22 @@ public class Pregunta {
         this.respuesta = respuesta;
     }
 
-    public ArrayList<String> getOpciones() {
-        return opciones;
+    public String getExplicacion() {
+        return explicacion;
     }
 
-    public String addOpcion(String opcion) {
-        return this.opciones.add(opcion) ?
-                ("Se agregó correctamente."):
-                ("Error al agregar la opción.");
+    public void setExplicacion(String explicacion) {
+        this.explicacion = explicacion;
     }
 
+    public void addOpcion(String opcion) {
+        this.opciones.add(opcion);
+    }
+
+    public String getOpcion(int indice) {
+        return opciones.get(indice);
+    }
+    
     @Override
     public String toString() {
         return "Pregunta{" + "enunciado=" + enunciado + ", respuesta=" + respuesta + '}';

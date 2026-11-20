@@ -1,0 +1,51 @@
+# Capítulo 2: Software & Programming (gramática, se escribe la respuesta)
+# Las opciones van vacías porque se responde escribiendo (no importan las mayúsculas).
+# Líneas I: páginas de contenido. T: glosario. P: preguntas. No usar el carácter | dentro de los textos.
+TIPO=GRAMATICA
+CAPITULO=2
+TITULO=Software & Programming
+DESCRIPCION=Describa lo que hace el código con el presente simple.
+OBJETIVO=Usar el presente simple en tercera persona del singular para describir lo que hacen los programas y sus partes.
+EXPLICACION=En inglés, el presente simple describe acciones habituales o hechos. En este capítulo lo practicará para explicar qué hace un programa: the loop repeats, a variable stores.
+REGLA=Con sujetos en tercera persona singular el verbo termina en -s. Si termina en s, sh, ch, x u o se agrega -es. Si termina en consonante + y, la y cambia a -ies. Have cambia a has y do cambia a does.
+
+I|¿Qué es el software? Software son los programas e instrucciones que le dicen al hardware qué hacer. Un programador escribe código (code) en un lenguaje de programación, y el compiler (compilador) lo traduce a algo que el computador puede ejecutar.
+I|Conceptos básicos de programación. Una variable (variable) guarda un valor. Un loop (bucle) repite instrucciones. Una function (función) agrupa instrucciones y puede devolver un resultado. Un repository (repositorio) guarda el código y el historial de cambios del proyecto. El debugging (depuración) es el proceso de buscar y corregir errores.
+I|El presente simple. En inglés usamos el presente simple para hablar de hechos y acciones habituales. Para describir lo que hace un programa, usamos la tercera persona del singular: the loop repeats the code, the compiler translates the program.
+I|Regla 1: agregar -s. Con it, he, she o un sujeto singular (the loop, a variable) el verbo termina en -s. Ejemplo: repeat se convierte en repeats, store se convierte en stores.
+I|Regla 2: agregar -es. Si el verbo termina en s, sh, ch, x u o, se agrega -es. Ejemplos: process se convierte en processes, fix en fixes, push en pushes, pass en passes.
+I|Regla 3: cambiar y por -ies. Si el verbo termina en consonante + y, la y cambia a -ies. Ejemplos: try se convierte en tries, copy en copies, study en studies. Si antes de la y hay una vocal, solo se agrega -s (play se convierte en plays).
+I|Verbos irregulares. Have cambia a has (the class has two attributes) y do cambia a does (the program does its job). Estos dos verbos no siguen las reglas anteriores y hay que memorizarlos.
+I|Consejo de estudio. Antes de escribir, pregúntese: ¿el sujeto es una sola cosa? Si es así, el verbo necesita la terminación de tercera persona. Mire cómo termina el verbo base para elegir entre -s, -es o -ies.
+
+T|Code|Código
+T|Compiler|Compilador
+T|Variable|Variable
+T|Loop|Bucle
+T|Function|Función
+T|Repository|Repositorio
+T|Debugging|Depuración
+T|Error|Error
+T|Program|Programa
+T|Programmer|Programador
+T|Script|Guion de código
+T|Test|Prueba
+T|Class|Clase
+T|Debugger|Depurador
+T|Data|Datos
+
+P|Complete: The loop ___ (repeat) the code.|repeats||The loop es tercera persona singular (it), por eso el verbo repeat lleva -s: repeats.
+P|Complete: A variable ___ (store) a value.|stores||A variable es singular, por eso store pasa a stores.
+P|Complete: The compiler ___ (translate) the program.|translates||The compiler es singular, por eso translate pasa a translates.
+P|Complete: The debugger ___ (find) errors in the code.|finds||The debugger es singular, por eso find pasa a finds.
+P|Complete: The program ___ (print) a message on the screen.|prints||The program es singular, por eso print pasa a prints.
+P|Complete: The function ___ (return) a result.|returns||The function es singular, por eso return pasa a returns.
+P|Complete: The program ___ (process) the data.|processes||Process termina en -ss, así que en tercera persona singular se agrega -es: processes.
+P|Complete: The script ___ (fix) the error automatically.|fixes||Fix termina en -x, así que se agrega -es: fixes.
+P|Complete: The system ___ (push) the changes to the repository.|pushes||Push termina en -sh, así que se agrega -es: pushes.
+P|Complete: The test ___ (pass) when the code is correct.|passes||Pass termina en -ss, así que se agrega -es: passes.
+P|Complete: The programmer ___ (try) a new solution.|tries||Try termina en consonante + y, por eso la y cambia a -ies: tries.
+P|Complete: The function ___ (copy) the file to the folder.|copies||Copy termina en consonante + y, por eso la y cambia a -ies: copies.
+P|Complete: The student ___ (study) Java every day.|studies||Study termina en consonante + y, por eso la y cambia a -ies: studies.
+P|Complete: The class ___ (have) two attributes.|has||Have es irregular en tercera persona singular: has.
+P|Complete: The program ___ (do) what the code says.|does||Do es irregular en tercera persona singular: does.

@@ -14,8 +14,8 @@ public class LeccionGramatica extends Leccion {
     public LeccionGramatica() {
     }
 
-    public LeccionGramatica(String titulo, String descripcion, String regla) {
-        super(titulo, descripcion);
+    public LeccionGramatica(String titulo, String descripcion, String regla, String objetivo, String explicacion, String capitulo) {
+        super(titulo, descripcion, objetivo, explicacion, capitulo);
         this.regla = regla;
     }
 
@@ -29,7 +29,7 @@ public class LeccionGramatica extends Leccion {
 
     @Override
     public String getIndicacion() {
-        return "Escriba la palabra que completa la oración (no importan las mayúsculas).";
+        return "Escriba la palabra que completa la oración.";
     }
 
     @Override

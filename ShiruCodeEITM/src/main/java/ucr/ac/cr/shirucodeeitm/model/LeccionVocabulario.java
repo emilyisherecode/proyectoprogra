@@ -14,8 +14,8 @@ public class LeccionVocabulario extends Leccion {
     public LeccionVocabulario() {
     }
 
-    public LeccionVocabulario(String titulo, String descripcion, String tema) {
-        super(titulo, descripcion);
+    public LeccionVocabulario(String titulo, String descripcion, String tema, String objetivo, String explicacion, String capitulo) {
+        super(titulo, descripcion, objetivo, explicacion, capitulo);
         this.tema = tema;
     }
 
